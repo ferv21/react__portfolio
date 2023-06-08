@@ -6,10 +6,8 @@ const Sobre = () => {
     <section>
       <Titulo fontSize={16}>Sobre min</Titulo>
       <Paragrafo tipo="principal">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione ducimus
-        veritatis suscipit eligendi. Omnis asperiores quidem eius, provident
-        molestiae ut est debitis blanditiis accusantium soluta, vel beatae
-        nostrum facere. Sint!
+        Olá , eu sou o Fernando, tenho 21 anos e sou apaixonado por tecnologia e
+        programação, tenho principal interesse em UI/UX desing e Front-End.
       </Paragrafo>
       <GithubSecao>
         <img src="https://github-readme-stats.vercel.app/api?username=ferv21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
